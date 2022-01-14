@@ -4,4 +4,8 @@ const celsius = prompt("Enter a celsius value: ");
 
 // calculate fahrenheit
 const fahrenheit = (celsius * 1.8) + 32
+<<<<<<< HEAD
 console.log
+=======
+console.log
+>>>>>>> 1e71f0c122da1f06193bb40ae3f9ae2a6226a993
